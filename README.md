@@ -88,4 +88,4 @@ Read miss?
 FSM goes to the Allocate state.
 
 ```
-![phpoMLHDa](https://user-images.githubusercontent.com/105862227/169352622-b0c9ccbb-5cc5-489d-95ef-611379397ea2.png)
+![phpoMLHDa - Copy](https://user-images.githubusercontent.com/105862227/169900902-76245071-4477-481a-a67d-15b0263ec28d.png)
