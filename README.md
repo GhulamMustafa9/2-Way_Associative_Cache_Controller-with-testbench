@@ -16,7 +16,7 @@ select the word from the block. The rest of the type declaration is found in the
 
 •	Block size = 4 words,  Offset is 4 bits  (word-offset=2 bits, byte-offset=2 bits)
 
-•	32-byte addresses [ tag=19 bits,  Index=09 bits, Block offset=4 bits]
+•	32-byte addresses [ tag=19 bits,  Set-Index=09 bits, Block offset=4 bits]
 
 •	The cache includes a LRU bit, valid bit and dirty bit per block
 
