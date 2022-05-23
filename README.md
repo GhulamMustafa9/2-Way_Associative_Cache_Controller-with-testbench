@@ -48,7 +48,7 @@ select the word from the block. The rest of the type declaration is found in the
 
 	1-bit Ready signal, saying the memory operation is complete
 
-![cache_structure](https://user-images.githubusercontent.com/105862227/169352909-12ac2c86-3815-4c48-a42b-6fb282712a45.png)
+![3-s2 0-B9780128200643000088-f08-09-9780128200643](https://user-images.githubusercontent.com/105862227/169900725-14d250a1-0c17-4221-8d16-60f40b21ba90.jpg)
 
 ## FSM Logic:
 
