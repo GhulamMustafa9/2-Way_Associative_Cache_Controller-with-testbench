@@ -1,3 +1,19 @@
+//////////////////////////////////////////////////////////////////////////////////
+// Create Date: 20.05.2022
+// Project Name: 2-Way Associative Cache Controller
+// Tool Versions: Questa Sim -64 10.7c     
+// Revision 1.5.9 -
+//////////////////////////////////////////////////////////////////////////////////
+/*
+Controller Specifications:
+	> 2-Way Associative Cache Controller
+	> Write-back scheme
+	> No. of Sets = 512 (Cache Set-index is 09 bits)
+	> Block size = 4 words, Offset is 4 bits (block-offset=2 bits, byte-offset=2 bits)
+	> 32-byte addresses [ tag=18 bits, Index=10 bits, Block offset=4 bits]
+	> The cache includes a LRU bit, valid bit and dirty bit per block	
+*/
+
 `timescale 1ns/1ns
 module cache_controller (
 	clk,
