@@ -1,5 +1,5 @@
 
-# Cache Controller SystemVerilog Design 
+# 2-Way-Associative-Cache Controller SystemVerilog Design 
 
 The hardware description language we are using in this section is SystemVerilog.
  
